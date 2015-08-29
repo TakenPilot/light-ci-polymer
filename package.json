@@ -1,0 +1,11 @@
+{
+  "name": "light-ci-polymer",
+  "version": "0.0.1",
+  "description": "front-end for website",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Dane Stuckel",
+  "license": "ISC"
+}
